@@ -16,10 +16,24 @@ Import FastAPI to create de application server.
 
 ## 4. Models
 
+Models for detarminate a type of data.
+
 ## 5. Schemas
 
+Schemas for determinate a organization of data.
+
 ## 6. Routes
+
+It's use for determinate path in app.
 
 ## 7. Server
 
 uvicorn app:app --reload
+
+## 8. Exception
+
+Using exception.
+
+## 9. Tutorial:
+
+[Tutorial] https://www.youtube.com/watch?v=MXwcUrI-iss
