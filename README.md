@@ -1,6 +1,6 @@
 # install:
 
-pip install pymongo "pymongo[srv]" python-decouple uvicorn fastapi pydantic
+`pip install pymongo "pymongo[srv]" python-decouple uvicorn fastapi pydantic`
 
 ## 1. File .env
 
