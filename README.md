@@ -8,6 +8,8 @@ Create a file with URL to access a MongoDb Atlas
 
 ## 2. Config DB access
 
+Install python-decouple for keys.
+
 Use db.py file to connect to DB.
 
 ## 3. Main file:
@@ -36,4 +38,4 @@ Using exception.
 
 ## 9. Tutorial:
 
-[Tutorial] https://www.youtube.com/watch?v=MXwcUrI-iss
+[Youtube](https://www.youtube.com/watch?v=MXwcUrI-iss)
